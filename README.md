@@ -33,5 +33,3 @@ If we want to update the `view` service:
 ```bash
 docker compose up -d --no-deps --build view
 ```
-## Documentation
-[here](https://github.com/lrazovic/advanced_programming/tree/main/Documentation)
